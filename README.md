@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div>
     <a href="https://github.com/jonesgp">
-    <img height="180em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave"
+    <img height="180em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats-jonesgp.vercel.app/api/top-langs/?username=JonesGP"/>
 </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
