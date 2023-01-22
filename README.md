@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
     <a href="https://github.com/jonesgp">
-    <img height="180em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave"/>
+    <img height="180em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave&include_all_commits=truecount_private=true"/>
     <img height="180em" src="https://github-readme-stats-jonesgp.vercel.app/api/top-langs/?username=JonesGP"/>
 </div>
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Jones-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jones-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jones-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jones-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
 - 🔭 I’m currently working on ...
