@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-xi-umber.vercel.app/api?username=JonesGP&show_icons=true&theme=tokyonight)](https://https://github.com/JonesGP/github-readme-stats)
+## Hi there 👋
+<div>
+    <a href="https://github.com/jonesgp">
+    <img height="180em"[![Anurag's GitHub stats](http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP)](https://https://github.com/JonesGP/github-readme-stats)>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
