@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
     <a href="https://github.com/jonesgp">
-    <img height="180em"[![Anurag's GitHub stats](http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP)](https://https://github.com/JonesGP/github-readme-stats)>
+    <img height="180em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP"
 </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
