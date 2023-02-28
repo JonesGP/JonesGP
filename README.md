@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://JonesGP.com"></a>
+<a href="https://JonesGP.com">my site JonesGP.com</a>
 <div>
     <a href="https://github.com/jonesgp">
     <img height="150em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave&include_all_commits=truecount_private=true"/>
