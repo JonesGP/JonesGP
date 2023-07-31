@@ -15,7 +15,7 @@
   <img align="center" alt="Jones-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jones-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jones-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jones-Kivy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kivy/kivy-original.svg">
+  <img align="center" alt="Jones-Kivy" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/kivy/kivy-original.svg](https://github.com/JonesGP/JonesGP/blob/main/kivy_icon_132265.svg)">
   <img align="center" alt="Jones-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jones-Unity" height="30" width="40" src="https://github.com/JonesGP/JonesGP/blob/main/unity-originalbranco.svg">
   <img align="center" alt="Jones-Sass" height="30" width="40" src="https://github.com/JonesGP/devicon/blob/master/icons/sass/sass-original.svg">
