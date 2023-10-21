@@ -1,7 +1,7 @@
 ## Hi there 👋
 <a href="https://JonesGP.com">my site JonesGP.com</a>
     <section style="display:flex; justify-content: center; width: 100vw;">
-        <div style="display: flex; justify-content: center">
+        <div style="display: flex; justify-content: center; width: 100%;">
             <a href="https://github.com/jonesgp">
             <img height="150em" src="http://github-readme-stats-jonesgp.vercel.app/api?username=JonesGP&show_icons=true&theme=synthwave&include_all_commits=truecount_private=true"/>
             <img height="150em" src="https://github-readme-stats-jonesgp.vercel.app/api/top-langs/?username=JonesGP&layout=compact&lang_count=16&theme=dark"/>
